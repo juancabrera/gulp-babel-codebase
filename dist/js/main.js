@@ -32,6 +32,8 @@ var moduleTest = exports.moduleTest = (function () {
 
   return moduleTest;
 })();
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
 
 },{}]},{},[1]);
