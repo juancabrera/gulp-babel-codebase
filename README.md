@@ -1,4 +1,4 @@
-Gulp 6to5 codebase
+Gulp babel codebase
 ==================
 A basic [gulp](https://github.com/gulpjs/gulp) codebase project using [babelify](https://github.com/babel/babelify) and [browserify](https://www.npmjs.com/package/browserify) for its modules.
 
