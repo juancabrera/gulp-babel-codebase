@@ -5,3 +5,6 @@ A basic [gulp](https://github.com/gulpjs/gulp) codebase project using [babelify]
 ### Getting started
 1. `npm install`
 2. `gulp`
+
+## License
+MIT Copyright (c) [Juan Cabrera](http://juan.me)
